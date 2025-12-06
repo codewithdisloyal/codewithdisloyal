@@ -115,7 +115,7 @@ const codewithdisloyal = {
 <td width="50%">
 <h3 align="center">Project Name 1</h3>
 <div align="center">  
-<a href="https://github.com/codewithdisloyal/project-repo-name" target="_blank"><img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=Your+Project+Screenshot" alt="project-image"></a>
+<a href="https://github.com/codewithdisloyal/Lumina-eCommerce" target="_blank"><img src="https://github.com/codewithdisloyal/Lumina-eCommerce/blob/main/website-preview.png" alt="project-image"></a>
 <br>
 <br>
 <p>
