@@ -119,8 +119,8 @@ const codewithdisloyal = {
 <br>
 <br>
 <p>
-<a href="https://github.com/codewithdisloyal/project-repo-name" target="_blank">
-<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/codewithdisloyal/Simple-Portfolio" target="_blank">
+<img src="https://github.com/codewithdisloyal/Simple-Portfolio/blob/main/portfolio.png">
 </a>  
 <a href="https://your-live-demo-link.com" target="_blank">
 <img src="https://img.shields.io/badge/Live-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white">
