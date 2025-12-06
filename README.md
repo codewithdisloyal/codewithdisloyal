@@ -86,8 +86,44 @@ const codewithdisloyal = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithdisloyal&repo=project-name-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/codewithdisloyal/project-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithdisloyal&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/codewithdisloyal/project-name-2)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Project Name 1</h3>
+<div align="center">  
+<a href="https://github.com/codewithdisloyal/project-repo-name" target="_blank"><img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=Your+Project+Screenshot" alt="project-image"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/codewithdisloyal/project-repo-name" target="_blank">
+<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=white">
+</a>  
+<a href="https://your-live-demo-link.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+</p>
+<p><strong>React, Node.js, MongoDB</strong> - Brief description of what this project does and the problem it solves.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Project Name 2</h3>
+<div align="center">  
+<a href="https://github.com/codewithdisloyal/project-repo-name-2" target="_blank"><img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=Your+Project+Screenshot" alt="project-image"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/codewithdisloyal/project-repo-name-2" target="_blank">
+<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=white">
+</a>  
+<a href="https://your-live-demo-link-2.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+</p>
+<p><strong>Next.js, TypeScript, PostgreSQL</strong> - Brief description of what this project does and the problem it solves.</p>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
