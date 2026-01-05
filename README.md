@@ -1,261 +1,264 @@
 <div align="center">
   
-  <!-- PROJECT LOGO/BANNER -->
-  <img src="assets/banner.png" alt="Project Banner" width="100%">
+  <!-- PROFILE BANNER -->
+  <img src="https://raw.githubusercontent.com/codewithdisloyal/codewithdisloyal/main/assets/banner.gif" alt="Profile Banner" width="100%">
   
-  <h1>Dis-Tool</h1>
-  <p><strong>A web tool to convert PDF files instantly.</strong></p>
+  <h1>👋 Hi, I'm Disloyal</h1>
+  <h3>Full Stack Web Developer | Code Enthusiast | Problem Solver</h3>
 
   <!-- SHIELDS.IO BADGES -->
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/license/yourusername/dis-tool?style=flat-square" alt="License">
-    <img src="https://img.shields.io/github/stars/yourusername/dis-tool?style=flat-square" alt="Stars">
-    <img src="https://img.shields.io/github/forks/yourusername/dis-tool?style=flat-square" alt="Forks">
-    <img src="https://img.shields.io/github/issues/yourusername/dis-tool?style=flat-square" alt="Issues">
-  </p>
-
-  <p>
-    <a href="#about">About</a> •
-    <a href="#features">Features</a> •
-    <a href="#built-with">Built With</a> •
-    <a href="#getting-started">Getting Started</a> •
-    <a href="#usage">Usage</a> •
-    <a href="#roadmap">Roadmap</a> •
-    <a href="#license">License</a>
+    <img src="https://komarev.com/ghpvc/?username=codewithdisloyal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/codewithdisloyal?label=Followers&style=social" alt="Followers">
+    <img src="https://img.shields.io/github/stars/codewithdisloyal?label=Stars&style=social" alt="Stars">
   </p>
 
 </div>
 
 ---
 
-## 📖 About
+## 🚀 About Me
 
-**Dis-Tool** is a modern, lightweight web application designed to convert PDF files quickly and efficiently. Whether you're working offline or need instant results, Dis-Tool provides a seamless experience with an intuitive drag-and-drop interface.
+I'm a passionate **Full Stack Web Developer** with expertise in building modern, responsive, and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-This project was built to solve the common problem of needing quick PDF conversions without relying on third-party online services that compromise privacy or require subscriptions.
-
-### Why Dis-Tool?
-
-- 🔒 **Privacy First** - All processing happens locally
-- ⚡ **Lightning Fast** - Instant conversion with optimized algorithms
-- 🎨 **Modern UI** - Clean interface with dark mode support
-- 📱 **Responsive** - Works on desktop, tablet, and mobile devices
+- 🔭 Currently working on **innovative web projects**
+- 🌱 Always learning and exploring new technologies
+- 💡 Passionate about clean code and best practices
+- 🎯 Goal: To create impactful solutions that make a difference
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, Bootstrap**
+- 📫 How to reach me: **codewithdisloyal@gmail.com**
 
 ---
 
-## ✨ Features
+## 💻 Tech Stack & Skills
 
-- **Drag and Drop Interface** - Simply drag your PDF files into the application
-- **Dark Mode Support** - Easy on the eyes with automatic theme switching
-- **Fast Processing** - Optimized conversion engine for quick results
-- **Offline Support** - Works completely offline with no internet required
-- **Batch Processing** - Convert multiple files at once
-- **Format Options** - Export to various formats (DOCX, TXT, Images)
-- **Preview Mode** - View your PDF before conversion
-- **Cross-Platform** - Works on Windows, macOS, and Linux
-
----
-
-## 🛠️ Built With
-
-This project leverages the following technologies:
-
-- **Frontend:**
-  - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Structure and markup
-  - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling and animations
-  - [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Client-side logic
-
-- **Backend:**
-  - [Python](https://www.python.org/) - Server-side processing
-  - [Flask](https://flask.palletsprojects.com/) - Web framework (optional)
-  - [PyPDF2](https://pypdf2.readthedocs.io/) - PDF manipulation
-
-- **Tools & Libraries:**
-  - [pdf.js](https://mozilla.github.io/pdf.js/) - PDF rendering
-  - [Bootstrap](https://getbootstrap.com/) - Responsive design (optional)
-
----
-
-## 🚀 Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v14.0 or higher)
-- [Python](https://www.python.org/) (v3.8 or higher)
-- [Git](https://git-scm.com/)
-
-### Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/dis-tool.git
-   cd dis-tool
-   ```
-
-2. **Install frontend dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Set up Python virtual environment**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-4. **Install Python dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. **Configure environment variables**
-
-   Create a `.env` file in the root directory:
-
-   ```env
-   PORT=3000
-   DEBUG=True
-   ```
-
-6. **Run the application**
-
-   ```bash
-   npm start
-   # Or for Python backend:
-   python app.py
-   ```
-
-7. **Open your browser**
-
-   Navigate to `http://localhost:3000`
-
----
-
-## 💡 Usage
-
-### Basic Conversion
-
-1. Launch the application in your browser
-2. Drag and drop a PDF file onto the upload area
-3. Select your desired output format
-4. Click "Convert" and download your file
-
-### Advanced Options
-
-```javascript
-// Example: Using the API programmatically
-const converter = new PDFConverter({
-  inputFile: 'document.pdf',
-  outputFormat: 'docx',
-  quality: 'high'
-});
-
-converter.convert()
-  .then(result => console.log('Conversion complete:', result))
-  .catch(error => console.error('Conversion failed:', error));
+### Frontend Development
+```
+HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • Responsive Design
+jQuery • AJAX • DOM Manipulation • API Integration
 ```
 
-### Command Line Interface
-
-```bash
-# Convert a single file
-python dis-tool.py convert input.pdf --output output.docx
-
-# Batch conversion
-python dis-tool.py batch-convert *.pdf --format txt
+### Backend Development
+```
+PHP • MySQL • RESTful APIs • Server-Side Logic
+Database Design • Authentication & Authorization
 ```
 
----
+### Tools & Technologies
+```
+Git & GitHub • VS Code • XAMPP • phpMyAdmin
+Chrome DevTools • Postman • FileZilla
+```
 
-## 🗺️ Roadmap
-
-Here are some features and improvements planned for future releases:
-
-- [ ] **v2.0 - Cloud Sync**
-  - [ ] Optional cloud backup integration
-  - [ ] Sync settings across devices
-
-- [ ] **v2.1 - Enhanced Features**
-  - [ ] OCR support for scanned PDFs
-  - [ ] Advanced editing tools
-  - [ ] Annotation support
-
-- [ ] **v2.2 - Integrations**
-  - [ ] Google Drive integration
-  - [ ] Dropbox support
-  - [ ] Browser extension
-
-- [ ] **v3.0 - Mobile Apps**
-  - [ ] iOS application
-  - [ ] Android application
-
-See the [open issues](https://github.com/yourusername/dis-tool/issues) for a full list of proposed features and known issues.
+### Core Competencies
+- ✅ Responsive Web Design
+- ✅ Database Design & Management
+- ✅ RESTful API Development
+- ✅ Authentication Systems
+- ✅ E-commerce Solutions
+- ✅ Content Management Systems
+- ✅ Performance Optimization
+- ✅ Cross-Browser Compatibility
 
 ---
 
-## 🤝 Contributing
+## 📊 GitHub Statistics
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdisloyal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
+</div>
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdisloyal&theme=radical&hide_border=true" alt="GitHub Streak">
+</div>
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdisloyal&theme=react-dark&hide_border=true" alt="Contribution Graph">
+</div>
 
 ---
 
-## 👥 Authors
+## 🏆 Featured Projects
 
-- **Your Name** - *Initial work* - [@yourusername](https://github.com/yourusername)
+### 🔥 [Project Name 1](https://github.com/codewithdisloyal/project-1)
+**E-commerce Platform** - A full-featured online shopping system
+- Built with PHP, MySQL, Bootstrap
+- User authentication, shopping cart, payment integration
+- Admin panel for inventory management
+- ⭐ 50 Stars | 🍴 20 Forks
 
-See also the list of [contributors](https://github.com/yourusername/dis-tool/contributors) who participated in this project.
+### 🔥 [Project Name 2](https://github.com/codewithdisloyal/project-2)
+**Task Management System** - Collaborative project management tool
+- Real-time task tracking and team collaboration
+- RESTful API with PHP backend
+- Responsive UI with Bootstrap 5
+- ⭐ 35 Stars | 🍴 15 Forks
+
+### 🔥 [Project Name 3](https://github.com/codewithdisloyal/project-3)
+**Blog CMS** - Custom content management system
+- Dynamic content creation and management
+- User roles and permissions
+- SEO-friendly URLs and metadata
+- ⭐ 28 Stars | 🍴 10 Forks
+
+<div align="center">
+  <a href="https://github.com/codewithdisloyal?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects">
+  </a>
+</div>
 
 ---
 
-## 🙏 Acknowledgments
+## 🎓 What I Can Build For You
 
-- Hat tip to anyone whose code was used
-- Inspiration from various PDF conversion tools
-- [Shields.io](https://shields.io/) for the beautiful badges
-- The open-source community for continuous support
+### 🌐 Web Applications
+- Custom web applications tailored to your needs
+- E-commerce platforms with payment integration
+- Content Management Systems (CMS)
+- Booking and reservation systems
+- Social networking platforms
+
+### 💼 Business Solutions
+- Customer Relationship Management (CRM)
+- Inventory management systems
+- Point of Sale (POS) systems
+- Employee management portals
+- Analytics dashboards
+
+### 🎨 Frontend Development
+- Responsive landing pages
+- Portfolio websites
+- Business websites
+- Interactive UI/UX designs
+- Cross-browser compatible interfaces
+
+### 🔧 Backend Development
+- RESTful APIs
+- Database architecture
+- User authentication systems
+- Payment gateway integration
+- Email automation
 
 ---
 
-## 📞 Contact
+## 📈 Skills Breakdown
 
-For questions, suggestions, or issues, please reach out:
+<div align="center">
 
-- **Email:** your.email@example.com
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Project Link:** [https://github.com/yourusername/dis-tool](https://github.com/yourusername/dis-tool)
+| Skill | Proficiency |
+|-------|-------------|
+| HTML5 | ███████████ 95% |
+| CSS3 | ██████████░ 90% |
+| JavaScript | ██████████░ 85% |
+| Bootstrap | ██████████░ 90% |
+| PHP | ██████████░ 88% |
+| MySQL | █████████░░ 85% |
+| Git & GitHub | ████████░░░ 80% |
+| Responsive Design | ███████████ 92% |
+
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR in [codewithdisloyal/project-name](#)
+2. 💪 Opened PR in [codewithdisloyal/project-name](#)
+3. 🗣 Commented on issue [codewithdisloyal/project-name](#)
+4. ⭐ Starred [awesome-repo](#)
+5. 🎉 Created new repository [new-project](#)
+<!--END_SECTION:activity-->
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Scalable Web Applications with PHP and MySQL
+- 💡 10 JavaScript Tips Every Developer Should Know
+- 🎨 Mastering Responsive Design with Bootstrap 5
+- 🔐 Implementing Secure Authentication in PHP
+- ⚡ Performance Optimization Techniques for Web Apps
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithdisloyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithdisloyal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithdisloyal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithdisloyal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewithdisloyal.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithdisloyal@gmail.com)
+
+</div>
+
+---
+
+## 💡 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] Contribute to 10+ open-source projects
+- [ ] Build and launch 5 major web applications
+- [ ] Master advanced JavaScript frameworks
+- [ ] Create 50+ tutorial videos
+- [ ] Grow GitHub followers to 1000+
+- [ ] Collaborate with developers worldwide
+
+---
+
+## 💖 Support My Work
+
+If you like my work and want to support me:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codewithdisloyal)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/codewithdisloyal)
+
+</div>
+
+---
+
+## 📜 Fun Facts
+
+- 🎮 I debug code with coffee and determination
+- 🌙 Night owl who codes best after midnight
+- 📚 Always reading tech blogs and documentation
+- 🎵 Can't code without good music
+- 🍕 Pizza is my debugging fuel
 
 ---
 
 <div align="center">
-  <p>If you found this project helpful, please consider giving it a ⭐!</p>
-  <p>Made with ❤️ by Your Name</p>
+  
+  ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  ![Snake animation](https://github.com/codewithdisloyal/codewithdisloyal/blob/output/github-contribution-grid-snake.svg)
+  
+  ### ⭐ From [codewithdisloyal](https://github.com/codewithdisloyal) with ❤️
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  
 </div>
