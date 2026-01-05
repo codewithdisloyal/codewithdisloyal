@@ -1,264 +1,127 @@
 <div align="center">
   
-  <!-- PROFILE BANNER -->
-  <img src="https://raw.githubusercontent.com/codewithdisloyal/codewithdisloyal/main/assets/banner.gif" alt="Profile Banner" width="100%">
-  
-  <h1>👋 Hi, I'm Disloyal</h1>
-  <h3>Full Stack Web Developer | Code Enthusiast | Problem Solver</h3>
+# 🔰 Mr. Disloyal | Full Stack Web Developer 🔰
 
-  <!-- SHIELDS.IO BADGES -->
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+the+future+with+Disloyal+Futures;Full+Stack+Web+Developer;Cyberpunk+Enthusiast;Code.+Customize.+Create.)](https://git.io/typing-svg)
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=codewithdisloyal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-    <img src="https://img.shields.io/github/followers/codewithdisloyal?label=Followers&style=social" alt="Followers">
-    <img src="https://img.shields.io/github/stars/codewithdisloyal?label=Stars&style=social" alt="Stars">
-  </p>
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate **Full Stack Web Developer** with expertise in building modern, responsive, and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
-
-- 🔭 Currently working on **innovative web projects**
-- 🌱 Always learning and exploring new technologies
-- 💡 Passionate about clean code and best practices
-- 🎯 Goal: To create impactful solutions that make a difference
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, Bootstrap**
-- 📫 How to reach me: **codewithdisloyal@gmail.com**
-
----
-
-## 💻 Tech Stack & Skills
-
-### Frontend Development
-```
-HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • Responsive Design
-jQuery • AJAX • DOM Manipulation • API Integration
+### ⚡ **SYSTEM ONLINE** ⚡
+```terminal
+> Initializing Profile...
+> Location: Pakistan 🇵🇰
+> Status: Building the Future
+> Mission: Code with Disloyal
+> Mode: CYBERPUNK ACTIVATED ▰▰▰▰▰▰▰▰▰▰ 100%
 ```
 
-### Backend Development
+</div>
+
+---
+
+## 🌐 **CONNECT WITH ME**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-codewithdisloyal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithdisloyal)
+[![Twitter](https://img.shields.io/badge/Twitter-MrDisloyalDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MrDisloyalDev)
+[![YouTube](https://img.shields.io/badge/YouTube-DisloyalFutures-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DisloyalFutures)
+[![TikTok](https://img.shields.io/badge/TikTok-codewithdisloyal-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@codewithdisloyal)
+
+</div>
+
+---
+
+## 👨‍💻 **ABOUT_ME.exe**
+```javascript
+const mrDisloyal = {
+    username: "codewithdisloyal",
+    location: "Pakistan 🇵🇰",
+    role: "Full Stack Web Developer",
+    passion: ["Glassmorphism", "Cyberpunk Aesthetics", "Environment Customization"],
+    currentProject: "Dis-Tool - Building developer utilities",
+    philosophy: "Code is Art. Customization is Freedom.",
+    favoriteTheme: "Dark Mode Forever 🌑",
+    lifeGoal: "Building the future with Disloyal Futures"
+};
 ```
-PHP • MySQL • RESTful APIs • Server-Side Logic
-Database Design • Authentication & Authorization
+
+I'm a **Full Stack Web Developer** passionate about creating visually stunning and functional web experiences. I love diving deep into **Glassmorphism**, customizing development environments, and building powerful tools like **Dis-Tool**. My work is driven by a love for **cyberpunk aesthetics** and a commitment to pushing the boundaries of what's possible in web development.
+
+---
+
+## 🛠️ **TECH_STACK.sys**
+
+<div align="center">
+
+### **FRONTEND ARSENAL**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **BACKEND POWER**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **TOOLS & ENVIRONMENT**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **SYSTEM_STATS.log**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdisloyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdisloyal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" alt="GitHub Streak" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdisloyal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Contribution Graph" width="90%" />
+
+</div>
+
+---
+
+## 🎯 **CURRENT_MISSION.txt**
+```diff
++ Building innovative web solutions
++ Creating Dis-Tool for developers
++ Exploring Glassmorphism and modern UI/UX
++ Sharing knowledge on YouTube: Disloyal Futures
+- Never stopping the grind
 ```
 
-### Tools & Technologies
-```
-Git & GitHub • VS Code • XAMPP • phpMyAdmin
-Chrome DevTools • Postman • FileZilla
-```
-
-### Core Competencies
-- ✅ Responsive Web Design
-- ✅ Database Design & Management
-- ✅ RESTful API Development
-- ✅ Authentication Systems
-- ✅ E-commerce Solutions
-- ✅ Content Management Systems
-- ✅ Performance Optimization
-- ✅ Cross-Browser Compatibility
-
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdisloyal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdisloyal&theme=radical&hide_border=true" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdisloyal&theme=react-dark&hide_border=true" alt="Contribution Graph">
-</div>
-
----
-
-## 🏆 Featured Projects
-
-### 🔥 [Project Name 1](https://github.com/codewithdisloyal/project-1)
-**E-commerce Platform** - A full-featured online shopping system
-- Built with PHP, MySQL, Bootstrap
-- User authentication, shopping cart, payment integration
-- Admin panel for inventory management
-- ⭐ 50 Stars | 🍴 20 Forks
-
-### 🔥 [Project Name 2](https://github.com/codewithdisloyal/project-2)
-**Task Management System** - Collaborative project management tool
-- Real-time task tracking and team collaboration
-- RESTful API with PHP backend
-- Responsive UI with Bootstrap 5
-- ⭐ 35 Stars | 🍴 15 Forks
-
-### 🔥 [Project Name 3](https://github.com/codewithdisloyal/project-3)
-**Blog CMS** - Custom content management system
-- Dynamic content creation and management
-- User roles and permissions
-- SEO-friendly URLs and metadata
-- ⭐ 28 Stars | 🍴 10 Forks
-
-<div align="center">
-  <a href="https://github.com/codewithdisloyal?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects">
-  </a>
-</div>
-
----
-
-## 🎓 What I Can Build For You
-
-### 🌐 Web Applications
-- Custom web applications tailored to your needs
-- E-commerce platforms with payment integration
-- Content Management Systems (CMS)
-- Booking and reservation systems
-- Social networking platforms
-
-### 💼 Business Solutions
-- Customer Relationship Management (CRM)
-- Inventory management systems
-- Point of Sale (POS) systems
-- Employee management portals
-- Analytics dashboards
-
-### 🎨 Frontend Development
-- Responsive landing pages
-- Portfolio websites
-- Business websites
-- Interactive UI/UX designs
-- Cross-browser compatible interfaces
-
-### 🔧 Backend Development
-- RESTful APIs
-- Database architecture
-- User authentication systems
-- Payment gateway integration
-- Email automation
-
----
-
-## 📈 Skills Breakdown
+## 🔥 **PROFILE_ACTIVITY.json**
 
 <div align="center">
 
-| Skill | Proficiency |
-|-------|-------------|
-| HTML5 | ███████████ 95% |
-| CSS3 | ██████████░ 90% |
-| JavaScript | ██████████░ 85% |
-| Bootstrap | ██████████░ 90% |
-| PHP | ██████████░ 88% |
-| MySQL | █████████░░ 85% |
-| Git & GitHub | ████████░░░ 80% |
-| Responsive Design | ███████████ 92% |
+![](https://komarev.com/ghpvc/?username=codewithdisloyal&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in [codewithdisloyal/project-name](#)
-2. 💪 Opened PR in [codewithdisloyal/project-name](#)
-3. 🗣 Commented on issue [codewithdisloyal/project-name](#)
-4. ⭐ Starred [awesome-repo](#)
-5. 🎉 Created new repository [new-project](#)
-<!--END_SECTION:activity-->
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Web Applications with PHP and MySQL
-- 💡 10 JavaScript Tips Every Developer Should Know
-- 🎨 Mastering Responsive Design with Bootstrap 5
-- 🔐 Implementing Secure Authentication in PHP
-- ⚡ Performance Optimization Techniques for Web Apps
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithdisloyal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithdisloyal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithdisloyal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithdisloyal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewithdisloyal.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithdisloyal@gmail.com)
+### 💀 **"In a world of conformity, I code with disloyalty to the ordinary."** 💀
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
 
 ---
 
-## 💡 Quote of the Day
+**⚡ Code with Disloyal ⚡**
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</div>
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/codewithdisloyal)
 
----
-
-## 🎯 2025 Goals
-
-- [ ] Contribute to 10+ open-source projects
-- [ ] Build and launch 5 major web applications
-- [ ] Master advanced JavaScript frameworks
-- [ ] Create 50+ tutorial videos
-- [ ] Grow GitHub followers to 1000+
-- [ ] Collaborate with developers worldwide
-
----
-
-## 💖 Support My Work
-
-If you like my work and want to support me:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codewithdisloyal)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/codewithdisloyal)
-
-</div>
-
----
-
-## 📜 Fun Facts
-
-- 🎮 I debug code with coffee and determination
-- 🌙 Night owl who codes best after midnight
-- 📚 Always reading tech blogs and documentation
-- 🎵 Can't code without good music
-- 🍕 Pizza is my debugging fuel
-
----
-
-<div align="center">
-  
-  ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
-  
-  ![Snake animation](https://github.com/codewithdisloyal/codewithdisloyal/blob/output/github-contribution-grid-snake.svg)
-  
-  ### ⭐ From [codewithdisloyal](https://github.com/codewithdisloyal) with ❤️
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-  
 </div>
