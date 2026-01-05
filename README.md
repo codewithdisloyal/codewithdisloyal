@@ -1,127 +1,102 @@
-<div align="center">
-  
-# 🔰 Mr. Disloyal | Full Stack Web Developer 🔰
+````md
+<!-- ========================= -->
+<!--  CYBERPUNK GITHUB README  -->
+<!-- ========================= -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+the+future+with+Disloyal+Futures;Full+Stack+Web+Developer;Cyberpunk+Enthusiast;Code.+Customize.+Create.)](https://git.io/typing-svg)
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Mr.+Disloyal+%F0%9F%91%BE;Full+Stack+Web+Developer;Building+the+future+with+Disloyal+Futures" alt="Typing SVG" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Cyberpunk Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" />
+</p>
+
+<h1 align="center">👨‍💻 Mr. Disloyal</h1>
+<h3 align="center">Full Stack Web Developer</h3>
+<p align="center"><i>Building the future with \"Disloyal Futures.\"</i></p>
 
 ---
 
-### ⚡ **SYSTEM ONLINE** ⚡
-```terminal
-> Initializing Profile...
-> Location: Pakistan 🇵🇰
-> Status: Building the Future
-> Mission: Code with Disloyal
-> Mode: CYBERPUNK ACTIVATED ▰▰▰▰▰▰▰▰▰▰ 100%
+## 🧠 About Me
+```txt
+> Dark-mode enthusiast | Cyberpunk UI builder | Toolmaker
+````
+
+I am a **Full Stack Web Developer** from **Pakistan 🇵🇰**, passionate about crafting
+immersive **Hacker / Cyberpunk-style interfaces**, deeply customized development
+environments, and modern UI concepts like **Glassmorphism**.
+
+I enjoy building developer tools and experimental projects such as **Dis-Tool**,
+focusing on productivity, aesthetics, and performance.
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge\&logo=bootstrap\&logoColor=7952B3)
+
+### 🧩 Backend
+
+![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+
+### ⚙️ Tools & OS
+
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge\&logo=git\&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-0A0A0A?style=for-the-badge\&logo=google\&logoColor=4285F4)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdisloyal&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithdisloyal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/codewithdisloyal">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/MrDisloyalDev">
+    <img src="https://img.shields.io/badge/X_(Twitter)-0A0A0A?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@DisloyalFutures">
+    <img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  </a>
+  <a href="https://tiktok.com/@codewithdisloyal">
+    <img src="https://img.shields.io/badge/TikTok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧬 Motto
+
+```bash
+$ echo "Code the future. Break the limits."
 ```
 
-</div>
+<!-- Footer -->
 
----
-
-## 🌐 **CONNECT WITH ME**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-codewithdisloyal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithdisloyal)
-[![Twitter](https://img.shields.io/badge/Twitter-MrDisloyalDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MrDisloyalDev)
-[![YouTube](https://img.shields.io/badge/YouTube-DisloyalFutures-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DisloyalFutures)
-[![TikTok](https://img.shields.io/badge/TikTok-codewithdisloyal-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@codewithdisloyal)
-
-</div>
-
----
-
-## 👨‍💻 **ABOUT_ME.exe**
-```javascript
-const mrDisloyal = {
-    username: "codewithdisloyal",
-    location: "Pakistan 🇵🇰",
-    role: "Full Stack Web Developer",
-    passion: ["Glassmorphism", "Cyberpunk Aesthetics", "Environment Customization"],
-    currentProject: "Dis-Tool - Building developer utilities",
-    philosophy: "Code is Art. Customization is Freedom.",
-    favoriteTheme: "Dark Mode Forever 🌑",
-    lifeGoal: "Building the future with Disloyal Futures"
-};
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Code%20with%20Disloyal&fontColor=00F7FF&fontSize=20" />
+</p>
 ```
-
-I'm a **Full Stack Web Developer** passionate about creating visually stunning and functional web experiences. I love diving deep into **Glassmorphism**, customizing development environments, and building powerful tools like **Dis-Tool**. My work is driven by a love for **cyberpunk aesthetics** and a commitment to pushing the boundaries of what's possible in web development.
-
----
-
-## 🛠️ **TECH_STACK.sys**
-
-<div align="center">
-
-### **FRONTEND ARSENAL**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **BACKEND POWER**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **TOOLS & ENVIRONMENT**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-
-</div>
-
----
-
-## 📊 **SYSTEM_STATS.log**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdisloyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdisloyal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" alt="GitHub Streak" width="70%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdisloyal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Contribution Graph" width="90%" />
-
-</div>
-
----
-
-## 🎯 **CURRENT_MISSION.txt**
-```diff
-+ Building innovative web solutions
-+ Creating Dis-Tool for developers
-+ Exploring Glassmorphism and modern UI/UX
-+ Sharing knowledge on YouTube: Disloyal Futures
-- Never stopping the grind
-```
-
----
-
-## 🔥 **PROFILE_ACTIVITY.json**
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=codewithdisloyal&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-### 💀 **"In a world of conformity, I code with disloyalty to the ordinary."** 💀
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
-
----
-
-**⚡ Code with Disloyal ⚡**
-
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/codewithdisloyal)
-
-</div>
