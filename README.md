@@ -1,135 +1,91 @@
-
-
-Here is the raw Markdown code for your GitHub Profile README. I have designed this with a **Cyberpunk / Terminal aesthetic** using the "Tokyo Night" color palette, neon accents, and the "for-the-badge" shield style you requested.
-
-It includes a typing animation, a terminal-style intro, and fully functional stats cards.
-
-```markdown
-<!-- 
-  ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
-  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-  ███████║█████╗  ██║     ██║     ██║   ██║
-  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-  ██║  ██║███████╗███████╗███████╗╚██████╔╝
-  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
-                                     
-  GitHub Profile README for codewithdisloyal
-  Theme: Cyberpunk / Hacker / Tokyo Night
--->
-
 <div align="center">
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2gxcjF4M3ZneXl6bnc0eXl6bnc0eXl6bnc0eXl6bnc0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVq2ZSgnr0h9n6/giphy.gif" width="100%" alt="Cyberpunk Banner" />
 
-  <!-- Typing Animation Header -->
+  <br />
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+the+future+with+%22Disloyal+Futures%22;Welcome+to+my+Profile." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=HI+THERE%2C+I'M+MR.+DISLOYAL;FULL+STACK+WEB+DEVELOPER;BUILDING+DISLOYAL+FUTURES;LINUX+%26+CYBERPUNK+ENTHUSIAST" alt="Typing SVG" />
   </a>
-  
-  <!-- Profile Image with Neon Glow (Replace the URL with your actual avatar if you host one, otherwise keeping it clean) -->
-  <img src="https://raw.githubusercontent.com/codewithdisloyal/codewithdisloyal/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" style="display:none;"> <!-- Optional snake game reference -->
+
+  <p align="center">
+    <b>Turning Coffee into Code & Sad Ghazals ☕🥀</b>
+  </p>
+
+  <p align="center">
+    <a href="https://twitter.com/MrDisloyalDev" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://www.youtube.com/@DisloyalFutures" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://tiktok.com/@codewithdisloyal" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    </a>
+    <a href="mailto:contact@codewithdisloyal.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+---
+
+### ⚡ System Status: **Online** I am a Full Stack Developer from Pakistan with a passion for **Cyberpunk aesthetics** and **Glassmorphism** interfaces. I don't just write code; I customize the entire environment to look like a movie.
+
+* 🔭 I’m currently building **Dis-Tool** (A powerful file conversion utility).
+* 🌱 I’m currently exploring **AI Integration in IDEs** (Cursor, Windsurf).
+* 🐧 Daily Driver: **Linux (Deepin/KDE Plasma)** on my HP EliteBook.
+* 💬 Ask me about: **PHP, MySQL, and Customizing VS Code.**
+
+---
+
+### 🛠️ The Armory (Tech Stack)
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
 ---
 
-### 👾  About Me
-<div align="left">
-  
-  ```javascript
-  const mrDisloyal = {
-      title: "Full Stack Web Developer",
-      location: "Pakistan 🇵🇰",
-      interests: [
-          "Customizing Environments",
-          "Glassmorphism UI Design",
-          "Building 'Dis-Tool'"
-      ],
-      mission: "Crafting digital experiences with a touch of chaos and code."
-  };
-  ```
-
-</div>
-
-I am a passionate developer based in Pakistan, obsessed with creating unique digital environments. Whether it's perfecting the glassmorphism look or building tools like **Dis-Tool**, I bring a hacker's mindset to full-stack development.
-
----
-
-### 🛠  Tech Stack (Arsenal)
-<div align="center">
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <!-- Tools & OS -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Gemini_CLI-8E75FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini CLI" />
-
-</div>
-
----
-
-### 📊  GitHub Stats
-<div align="center">
-  
-  <!-- GitHub Stats Card - Tokyo Night Theme -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="codewithdisloyal's github stats" />
-  
-  <!-- Streak Stats - Tokyo Night Theme -->
-  <img width="49%" src="https://streak-stats.demolab.com/?user=codewithdisloyal&theme=tokyonight&hide_border=true" alt="codewithdisloyal's streak stats" />
-
-</div>
+### 📊 Network Statistics
 
 <div align="center">
+  <a href="https://github.com/codewithdisloyal">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="180" alt="codewithdisloyal stats" />
+  </a>
   
-  <!-- Top Languages Card -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdisloyal&theme=tokyonight&hide_border=true&layout=compact" alt="codewithdisloyal's top languages" />
-
+  <a href="https://github.com/codewithdisloyal">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdisloyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="180" alt="top languages" />
+  </a>
 </div>
 
----
+<br />
 
-### 🌐  Connect With Me
 <div align="center">
-
-  <!-- GitHub -->
-  <a href="https://github.com/codewithdisloyal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <!-- Twitter / X -->
-  <a href="https://twitter.com/MrDisloyalDev" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@DisloyalFutures" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-
-  <!-- TikTok -->
-  <a href="https://tiktok.com/@codewithdisloyal" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdisloyal&theme=tokyonight&hide_border=true&background=000000" alt="streak graph" />
 </div>
 
 ---
 
 <div align="center">
-  
-  <sub>Built with <3 and a lot of coffee by <b>Mr. Disloyal</b></sub>
-  <br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-  ![Visitor Count](https://profile-counter.glitch.me/codewithdisloyal/count.svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=100&section=footer" width="100%" />
+  <br />
+  <h3>⚡ Disloyal Futures ⚡</h3>
 </div>
-```
