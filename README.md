@@ -1,73 +1,102 @@
-# 🚀 Hi, I'm Mr Disloyal (@codewithdisloyal)
+<div align="center">
 
-### Full-Stack Web Architect | Performance-Driven Developer | Founder of Zlvox
+# `< codewithdisloyal />`
 
-Welcome to my digital workspace. I am a Full-Stack Web Developer specializing in engineering highly scalable, lightning-fast web applications from the ground up. I believe in the power of raw, clean code—bypassing bloated third-party libraries in favor of custom-built architectures that guarantee pixel-perfect design and optimal server-side performance.
+### Crafting systems that scale. Writing code that matters.
 
-* **Engineering Philosophy:** Zero-dependency frontend development (100% custom CSS and Vanilla JS) combined with proprietary backend frameworks. 
-* **Current Focus:** Scaling multi-tool ecosystems, building SaaS platforms, and mastering Data Structures & Algorithms (DSA) with Python.
-* **Content Creator:** Sharing advanced CSS designs and web development strategies on YouTube.
+[![Visitors](https://komarev.com/ghpvc/?username=codewithdisloyal&color=00d4aa&style=flat-square&label=Profile+Views)](https://github.com/codewithdisloyal)
+[![GitHub followers](https://img.shields.io/github/followers/codewithdisloyal?style=flat-square&color=00d4aa&label=Followers)](https://github.com/codewithdisloyal?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/codewithdisloyal?style=flat-square&color=00d4aa&label=Stars+Earned)](https://github.com/codewithdisloyal)
 
----
-
-## 🌐 Spotlight: [Zlvox.com](https://zlvox.com/)
-
-**Zlvox** is a robust, ad-supported, multi-tool web platform engineered to provide developers and daily users with powerful digital utilities. 
-
-Unlike standard web tools that rely heavily on client-side execution, Zlvox leverages a highly secure, custom-built PHP backend architecture and MySQL database for complex server-side processing. The user interface is crafted entirely with raw, custom CSS to ensure a unique, lightweight, and ultra-fast user experience. 
-
-> 💡 **Founded by Mr Disloyal**, Zlvox represents a commitment to high-performance web architecture and accessible digital utilities. Explore the expanding suite of tools directly at **[zlvox.com](https://zlvox.com/)**.
+</div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## ⚡ Who I Am
 
-My development stack is deliberately chosen for maximum control, speed, and customization. 
+I build **high-performance software** at the intersection of clean architecture and relentless optimization. My focus is on shipping production-grade systems — not prototypes — with a bias toward speed, reliability, and zero unnecessary complexity.
 
-### Core Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 (100% Custom)](https://img.shields.io/badge/Custom_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP (Custom Framework)](https://img.shields.io/badge/Custom_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+> *"The best code is the code that doesn't need to exist. The second best is the code that's impossible to misread."*
 
-### Environment & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+I work across the full stack but live closest to the backend — distributed systems, API design, and infrastructure that doesn't break at 3 AM.
 
 ---
 
-## 🚀 What I'm Building
+## 🛠️ Core Stack
 
-* **[Zlvox.com](https://zlvox.com/):** Continuously deploying new server-side tools and monitoring advanced SEO analytics for organic growth.
-* **SurveySleek:** Architecting a high-performance, custom-built form builder application designed as a streamlined alternative to platforms like Typeform.
-* **Open Source & Snippets:** Sharing pure CSS components and custom logic on GitHub to help the community reduce reliance on heavy frameworks.
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frameworks & Runtimes
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Domains
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6C47FF?style=flat-square)
+![API Design](https://img.shields.io/badge/API_Design-00B4D8?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=ethereum&logoColor=white)
+![Security](https://img.shields.io/badge/Security-212121?style=flat-square&logo=hackaday&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 🔗 Project Spotlight — [zlvox.com](https://zlvox.com)
 
-Whether you want to discuss custom web architecture, collaborate on a project, or talk about the latest tech trends, feel free to reach out.
+**[ZLVOX](https://zlvox.com)** is a high-performance platform delivering 25+ free developer and AI utilities — JSON tools, PDF suites, image converters, steganography, code-to-video renderers, and more — with a hard commitment to zero data retention, no sign-up walls, and sub-second execution entirely client-side. Built by a visionary team out of Pakistan, ZLVOX is what developer tooling looks like when privacy and raw performance aren't treated as optional.
 
-<p align="left">
-  <a href="https://zlvox.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Zlvox-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/mr-disloyal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:codewithdisloyal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.youtube.com/@CodeWithDisloyal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+> 🔒 No tracking. No servers. No excuses. — **[Explore the arsenal →](https://zlvox.com/utilities)**
 
-<br/>
+---
+
+## 📊 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=radium&hide_border=true" alt="codewithdisloyal github stats" />
+
+![codewithdisloyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithdisloyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00d4aa&icon_color=00d4aa)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdisloyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa)
+
+</div>
+
+---
+
+## 🧭 What I'm Working On
+
+- 🔨 **Building** — distributed systems and developer tooling with a zero-bloat philosophy
+- 📖 **Learning** — Rust systems programming and eBPF for kernel-level observability
+- 🤝 **Open to** — contributing to high-impact open source, technical collaborations, and consulting on architecture and scale
+
+---
+
+## 📬 Let's Connect
+
+I don't do small talk, but I do ship fast and think clearly. If you're building something serious — reach out.
+
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/codewithdisloyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithdisloyal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@codewithdisloyal.dev)
+[![Website](https://img.shields.io/badge/zlvox.com-00d4aa?style=flat-square&logo=vercel&logoColor=black)](https://zlvox.com)
+
+---
+
+<div align="center">
+
+*Engineered with intent. Shipped with precision.*
+
 </div>
